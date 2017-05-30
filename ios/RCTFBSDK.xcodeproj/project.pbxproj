@@ -365,6 +365,7 @@
 				COPY_PHASE_STRIP = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"~/Documents/FacebookSDK",
+					"$(PROJECT_DIR)/../../../ios",
 					"$(PROJECT_DIR)/../../../ios/Frameworks",
 				);
 				HEADER_SEARCH_PATHS = (
@@ -386,6 +387,7 @@
 				COPY_PHASE_STRIP = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"~/Documents/FacebookSDK",
+					"$(PROJECT_DIR)/../../../ios",
 					"$(PROJECT_DIR)/../../../ios/Frameworks",
 				);
 				HEADER_SEARCH_PATHS = (
